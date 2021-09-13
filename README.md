@@ -1,5 +1,7 @@
 # Brigade Helm Tools Image
 
+![build](https://badgr.brigade2.io/v1/github/checks/brigadecore/helm-tools/badge.svg?appID=99005)
+
 This project provides a curated set of containerized tools to facilitate
 publishing [Brigade's](https://github.com/brigadecore/brigade) Helm chart.
 
