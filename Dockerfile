@@ -1,6 +1,6 @@
 FROM debian:bullseye
 
-ENV HELM_VERSION=v3.7.0-rc.3
+ENV HELM_VERSION=v3.7.0
 ENV HELM_EXPERIMENTAL_OCI=1
 
 RUN buildDeps="curl" \
